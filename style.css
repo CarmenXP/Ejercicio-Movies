@@ -1,0 +1,13 @@
+ .container{
+    display: flex;
+    flex-direction: column;
+    padding: 2em;
+  
+    color: honeydew;
+    font-size: x-large;
+background-color: rgb(97, 248, 178)
+}
+.container:hover{
+
+    border: 1.5px solid #4b0082 ;
+}
